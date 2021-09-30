@@ -1,3 +1,7 @@
+Hi guys, this my first time creating a web application using Reactjs, I have made a personal blog and sort of a reflection app where I can talk about
+the events happening in my current life. I categorized it under "Social" and "Professional"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
