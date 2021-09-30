@@ -1,0 +1,32 @@
+{
+    "blogs": [
+        {
+            "title": "About me", 
+            "body": "lorem ipsum",
+            "author": "Eugene Pirono",
+            "genre": "social",
+            "id": 1
+        },
+        {
+            "title": "My first Hackathon experience",
+            "body": "lorem ipsum", 
+            "author": "Eugene Pirono",
+            "genre": "professional", 
+            "id": 2
+        },
+        {
+            "title": "Winning JHU Hackathon",
+            "body": "lorem ipsum", 
+            "author": "Eugene Pirono",
+            "genre": "professional", 
+            "id": 3
+        },
+        {
+            "title": "Being a treasurer at ISABU",
+            "body": "lorem ipsum", 
+            "author": "Eugene Pirono",
+            "genre": "professional", 
+            "id": 4
+        }
+    ]
+}
